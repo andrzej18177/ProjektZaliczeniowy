@@ -18,3 +18,4 @@ public class WyswietlaniePracownikow {
         dialogiZUżytkownikiem.nacisnijKlawisz();
     }
 }
+ 
