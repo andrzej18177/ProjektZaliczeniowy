@@ -20,7 +20,7 @@ public class Grafik implements Serializable
         {
             grafik[i] = generator.nextInt(3)+1;
 
-        }
+        } 
     }
     public int[] getGrafikTab()
     {
