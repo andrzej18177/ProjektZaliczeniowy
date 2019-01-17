@@ -36,7 +36,7 @@ public class PanelAdministratora {
                 zobaczZadania();
                 break;
             case 3:
-                dodajZadanie();
+                dodajZadanie(); 
                 break;
             case 4:
                 usuńZadanie();
