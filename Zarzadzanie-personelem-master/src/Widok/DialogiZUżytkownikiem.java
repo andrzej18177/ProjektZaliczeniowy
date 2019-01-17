@@ -38,7 +38,7 @@ public class DialogiZUżytkownikiem implements Serializable{
     {
         System.out.println("\nHasło:");
     }
-
+ 
     public void podajLogin()
     {
         System.out.println("\nLogin:");
