@@ -2,7 +2,7 @@ package Widok;
 
 import Kontroler.Menu;
 import Model.*;
-
+ 
 import java.util.List;
 
 public class WyswietlanieGrafiku {
