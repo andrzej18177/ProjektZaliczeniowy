@@ -6,7 +6,7 @@ import java.io.Serializable;
 import java.util.Scanner;
 
 public class OdczytDanych implements Serializable{
-
+ 
     private String godnosc;
     private DialogiZUżytkownikiem dialogiZUżytkownikiem = new DialogiZUżytkownikiem();
 
