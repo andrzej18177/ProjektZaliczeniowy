@@ -3,7 +3,7 @@ package Widok;
 import Kontroler.Menu;
 import Model.Pracownik;
 import java.util.List;
-
+ 
 public class Wykres{
 
     private DialogiZUżytkownikiem dialogiZUżytkownikiem=new DialogiZUżytkownikiem();
