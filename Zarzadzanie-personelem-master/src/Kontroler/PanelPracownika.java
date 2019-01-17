@@ -18,7 +18,7 @@ public class PanelPracownika {
     {
         this.imie=imie;
         this.nazwisko=nazwisko;
-    }
+    } 
 
     public void odpalMenu()
     {
