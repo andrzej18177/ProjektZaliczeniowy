@@ -29,7 +29,7 @@ public class WyswietlanieZadan {
         }
         dialogiZUżytkownikiem.nacisnijKlawisz();
     }
-
+ 
     public void wyswietlZadaniaPracownik(String imie,String nazwisko)
     {
         List<Pracownik> lista=Menu.getListaPracownikow();
