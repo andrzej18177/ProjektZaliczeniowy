@@ -11,7 +11,7 @@ import java.util.Scanner;
 public class Zadanie implements Serializable  {
     private String zadanie = "";
     DialogiZUżytkownikiem dialogiZUżytkownikiem=new DialogiZUżytkownikiem();
-
+ 
     Zadanie(String zadanie)
     {
         this.zadanie=zadanie;
